@@ -13,7 +13,7 @@
       <li>🌱 I’m currently learning <strong>Deep Learning</strong></li>
       <li>💬 Ask me about <strong>Collaboration, Tech Support</strong></li>
       <li>😄 Pronouns: <strong>Aniket</strong></li>
-      <li>⚡ Fun fact: <strong>I Love Tech and Tech Loves Me</strong></li>
+      <li>⚡ Fun fact: <strong>🐍 Python is my spirit animal.</strong></li>
     </ul>
   </div>
   <img src="https://github.com/CARLOX62/CARLOX62/blob/main/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Coding" width="300" />
@@ -22,6 +22,13 @@
 ---
 
 <div align="center">
+
+   
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+ ---
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -81,15 +88,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CARLOX62&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
