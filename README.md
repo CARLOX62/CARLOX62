@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="230" src="https://github.com/CARLOX62/CARLOX62/blob/main/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
@@ -60,32 +60,45 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CARLOX62&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CARLOX62&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLOX62&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CARLOX62&theme=dark&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
-### ✍️ Dev Quote
+<h3 align="center">📈 Aniket's GitHub Activity</h3>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+  </a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="CARLOX62" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CARLOX62" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOX62&theme=tokyonight" alt="CARLOX62" /></p>
+
+
+
+---
+
+<h3 align="center">✍️ Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
 ### 🔝 Top Contributions
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=CARLOX62&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+<h2 align="center">📅 Custom GitHub Contribution Heatmap</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff69b4/CARLOX62" alt="GitHub Chart" />
 </p>
 
 ---
