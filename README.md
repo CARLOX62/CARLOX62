@@ -1,23 +1,24 @@
 ![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
-<h3 align="center">A Passionate Machine Learning Engineer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Machine Learning Engineer from India</h3>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <h3>📌 About Me</h3>
-    <ul>
-      <li>🔭 I’m currently working on <strong>Credit Card Fraud Detection</strong></li>
-      <li>🌱 I’m currently learning <strong>Deep Learning</strong></li>
-      <li>💬 Ask me about <strong>Collaboration, Tech Support</strong></li>
-      <li>😄 Pronouns: <strong>Aniket</strong></li>
-      <li>⚡ Fun fact: <strong>🐍 Python is my spirit animal.</strong></li>
-    </ul>
-  </div>
-  <img src="https://github.com/CARLOX62/CARLOX62/blob/main/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Coding" width="300" />
-</div>
+<img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
+
+- 🔭 I’m currently working on **Credit Card Fraud Detection**
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 💬 Ask me about **Machine Learning, Python, Project Collaboration**
+
+- 📫 How to reach me **aniketsonukumar62@gmail.com**
+
+- ⚡ Fun fact **🐍 Python is my spirit animal**
+
 
 ---
 
