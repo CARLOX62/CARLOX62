@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
-- 🔭 I’m currently working on **Credit Card Fraud Detection**
+- 🔭 I’m currently working on: **Credit Card Fraud Detection**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning: **Deep Learning**
 
-- 💬 Ask me about **Machine Learning, Python, Project Collaboration**
+- 💬 Ask me about: **Machine Learning, Python, Project Collaboration**
 
-- 📫 How to reach me **aniketsonukumar62@gmail.com**
+- 📫 How to reach me: **aniketsonukumar62@gmail.com**
 
-- ⚡ Fun fact **🐍 Python is my spirit animal**
+- ⚡ Fun fact: **🐍 Python is my spirit animal**
 
 
 ---
