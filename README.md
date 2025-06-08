@@ -96,9 +96,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=CARLOX62&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-<h2 align="center">📅 Custom GitHub Contribution Heatmap</h2>
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff69b4/CARLOX62" alt="GitHub Chart" />
-</p>
+
 
 ---
