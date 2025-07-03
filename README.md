@@ -9,15 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
-- 🔭 I’m currently working on: **  **
+🌟 Currently Exploring: **Exciting ML Projects & Real-World Data Challenges**
 
-- 🌱 I’m currently learning: **Deep Learning**
+🧠 Learning Focus: **Advanced Deep Learning | Neural Networks | Transformers**
 
-- 💬 Ask me about: **Machine Learning, Python, Project Collaboration**
+💬 Let's Talk About:  
+**Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
 
-- 📫 How to reach me: **aniketsonukumar62@gmail.com**
+📫 Reach Out: [📧 aniketsonukumar62@gmail.com](mailto:aniketsonukumar62@gmail.com)
 
-- ⚡ Fun fact: **🐍 Python is my spirit animal**
+🐍 Fun Fact: *Python isn’t just a language — it’s my way of life!* 💚
 
 
 ---
