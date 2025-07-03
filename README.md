@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
-<h3 align="center">A Passionate Machine Learning Engineer from India</h3>
+<h3 align="center">Machine Learning Enthusiast | Python Developer | Problem Solver</h3>
 
 ---
 
