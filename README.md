@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="230" src="https://github.com/CARLOX62/CARLOX62/blob/main/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" />
+<img align="right" alt="Coding" width="350" src="https://github.com/CARLOX62/CARLOX62/blob/main/Firefly_Create%20a%20short%20animated%20loop%20GIF%20(3%E2%80%936%20seconds)%20of%20a%20hacker%20cartoon%20character%20sitting%20%20316441.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
