@@ -86,10 +86,16 @@
 
 ---
 
-<h3 align="center">✍️ Dev Quote</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<h2 align="center">💡 Dev Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Think+what+you+want,+not+say+what+you+want.✨;Be+a+thinker,+not+just+a+speaker.🧠" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
 
 ---
 
