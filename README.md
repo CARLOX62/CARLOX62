@@ -34,29 +34,63 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://facebook.com/aniket.kumar.833650"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/aniketkumar8581"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aniket-kumar-7b4104298"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aniketsonukumar62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/aniket.kumar.833650" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook.png" title="Facebook" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/aniketkumar8581" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" style="margin: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/aniket-kumar-7b4104298" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" style="margin: 10px;" />
+  </a>
+  <a href="mailto:aniketsonukumar62@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" style="margin: 10px;" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+<p align="center">
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/48px-Keras_logo.svg.png" title="Keras" width="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="48" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" style="margin: 10px;" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-Learn" width="48" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="48" style="margin: 10px;" />
+  <img src="https://img.icons8.com/fluency/48/anaconda.png" title="Anaconda" style="margin: 10px;" />
+</p>
+
+### 🌐 Web & Styling
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" style="margin: 10px;" />
+</p>
+
+### 💾 Databases
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" style="margin: 10px;" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" style="margin: 10px;" />
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" width="48" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" style="margin: 10px;" />
 </p>
 
 ---
