@@ -82,9 +82,8 @@
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" style="margin: 10px;" />
 </p>
 
----
 
-## 🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.icons8.com/color/48/git.png" title="Git" style="margin: 10px;" />
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" style="margin: 10px;" />
