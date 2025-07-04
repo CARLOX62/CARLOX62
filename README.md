@@ -53,52 +53,51 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" />
-</p>
+
+| C | C++ | Java | Python |
+|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/c-programming.png" title="C" /> | <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" /> | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" /> | <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" /> |
 
 ---
 
 ### 🤖 Machine Learning & Data Science
-<p align="center">
-  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" />
-  <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="48" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-learn" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="48" />
-  <img src="https://img.icons8.com/fluency/48/anaconda.png" title="Anaconda" />
-</p>
+
+| TensorFlow | Keras | PyTorch | NumPy |
+|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" title="Keras" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" title="PyTorch" /> | <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" /> |
+
+| Pandas | Scikit-learn | Matplotlib | Seaborn |
+|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas" /> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" title="Scikit-learn" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" title="Matplotlib" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn" /> |
+
+| OpenCV | Streamlit | Anaconda |
+|:--:|:--:|:--:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" title="OpenCV" /> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" title="Streamlit" /> | <img src="https://img.icons8.com/fluency/48/anaconda.png" title="Anaconda" /> |
 
 ---
 
 ### 🌐 Web & Styling
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" />
-</p>
+
+| HTML5 | CSS3 |
+|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> |
 
 ---
 
 ### 💾 Databases
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" />
-</p>
+
+| MySQL |
+|:--:|
+| <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" /> |
 
 ---
 
 ### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" width="48" />
-  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" />
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" />
-</p>
+
+| Git | GitHub | Jupyter | Linux | VS Code |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/git.png" title="Git" /> | <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook" /> | <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" /> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" /> |
+
 
 
 ---
