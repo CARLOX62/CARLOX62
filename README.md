@@ -86,15 +86,16 @@
 
 ---
 
-<h2 align="center">💡 Dev Quote of the Day</h2>
+<h2 align="center">🚀 Dev Quote of the Day</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Think+what+you+want,+not+say+what+you+want.✨;Be+a+thinker,+not+just+a+speaker.🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%22The+most+important+thing+is+to+be+able+to+think+what+you+want%2C;not+to+say+what+you+want.%22" alt="Dev Quote Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <b><i>– Paul Graham (programmer)</i></b> 🧠💡
 </p>
+
 
 
 ---
