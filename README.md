@@ -130,11 +130,15 @@
 <h2 align="center">🚀 Dev Quote of the Day</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%22The+most+important+thing+is+to+be+able+to+think+what+you+want%2C;not+to+say+what+you+want.%22" alt="Dev Quote Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%22The+most+important+thing+is+to+be+able+to+think+what+you+want%2C;not+to+say+what+you+want.%22" alt="Dev Quote Typing Animation" />
 </p>
 
 <p align="center">
-  <b><i>– Paul Graham (programmer)</i></b> 🧠💡
+  <img src="https://img.shields.io/badge/Author-Paul%20Graham-blueviolet?style=for-the-badge&logo=github" alt="Author Badge" />
+</p>
+
+<p align="center">
+  <b><i>🧠💡 Inspiration for thoughtful developers everywhere!</i></b>
 </p>
 
 
