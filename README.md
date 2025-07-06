@@ -92,7 +92,8 @@
 
 | Git | GitHub | Jupyter | Linux | VS Code | Kaggle | Google Colab | Streamlit | Anaconda |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/git.png" title="Git" /> | <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" title="GitHub" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter" /> | <img src="https://img.icons8.com/color/48/linux.png" title="Linux" /> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" title="Kaggle" /> | <img src="https://www.gstatic.com/colab/logo/colab_favicon_256px.png" width="40" title="Google Colab" /> | <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80" title="Streamlit" /> | <img src="https://cdn.iconscout.com/icon/free/png-256/free-anaconda-3628860-3029953.png" width="40" title="Anaconda" /> |
+| <img src="https://img.icons8.com/color/48/git.png" title="Git" /> | <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook" /> | <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" /> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" /> | <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" title="Kaggle" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Colaboratory_Logo.svg" width="48" title="Google Colab" /> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" title="Streamlit" /> | <img src="https://img.icons8.com/fluency/48/anaconda.png" title="Anaconda" /> |
+
 
 
 ---
