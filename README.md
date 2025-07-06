@@ -70,10 +70,6 @@
 |:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas" /> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" title="Scikit-learn" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" title="Matplotlib" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn" /> |
 
-| OpenCV | Streamlit | Anaconda |
-|:--:|:--:|:--:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" title="OpenCV" /> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" title="Streamlit" /> | <img src="https://img.icons8.com/fluency/48/anaconda.png" title="Anaconda" /> |
-
 ---
 
 ### 🌐 Web & Styling
@@ -94,10 +90,9 @@
 
 ### 🧰 Tools & Platforms
 
-| Git | GitHub | Jupyter | Linux | VS Code |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/git.png" title="Git" /> | <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook" /> | <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" /> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" /> |
-
+| Git | GitHub | Jupyter | Linux | VS Code | Kaggle | Google Colab | Streamlit | Anaconda |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/git.png" title="Git" /> | <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" title="GitHub" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter" /> | <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" /> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" /> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/kaggle.png" width="40" title="Kaggle" /> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/colab.png" width="40" title="Google Colab" /> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/streamlit.png" width="40" title="Streamlit" /> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/anaconda.png" width="40" title="Anaconda" /> |
 
 
 ---
