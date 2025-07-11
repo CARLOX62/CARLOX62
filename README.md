@@ -131,6 +131,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep%20Learning!-ff00ff?style=for-the-badge&logo=academia&logoColor=white" alt="Keep Learning Badge"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30" />
+</p>
 
 
 ---
