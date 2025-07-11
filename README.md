@@ -124,9 +124,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CARLOX62&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CARLOX62&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 ---
