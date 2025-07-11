@@ -46,7 +46,11 @@
   <a href="mailto:aniketsonukumar62@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email" style="margin: 10px;" />
   </a>
+  <a href="https://www.kaggle.com/aniket62" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" title="Kaggle" style="margin: 10px;" />
+  </a>
 </p>
+
 
 ---
 
