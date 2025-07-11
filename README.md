@@ -109,17 +109,24 @@
 
 <h3 align="center">📈 Aniket's GitHub Activity</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
   </a>
-</p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="CARLOX62" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CARLOX62" /></p>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOX62&theme=tokyonight" alt="CARLOX62" /></p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOX62&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
