@@ -129,7 +129,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CARLOX62&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
 
