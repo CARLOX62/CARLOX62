@@ -78,9 +78,9 @@
 
 ### 🌐 Web & Styling
 
-| HTML5 | CSS3 |
-|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> |
+| HTML5 | CSS3 | Flask |
+|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" width="48" height="48" /> |
 
 ---
 
