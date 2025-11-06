@@ -78,9 +78,10 @@
 
 ### 🌐 Web & Styling
 
-| HTML5 | CSS3 | Flask |
-|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" width="48" height="48" /> |
+| HTML5 | CSS3 | JavaScript | Flask | FastAPI |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> | <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" width="48" height="48" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="48" height="48" /> |
+
 
 ---
 
@@ -123,7 +124,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&layout=compact&theme=tokyonight&langs_count=8&hide=c" alt="Top Languages" height="180px"/>
+
 </div>
 
 <br/>
