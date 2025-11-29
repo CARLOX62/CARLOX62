@@ -16,7 +16,7 @@
 💬 Let's Talk About:  
 **Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
 
-📫 Reach Out: [📧 aniketsonukumar62@gmail.com](mailto:aniketsonukumar62@gmail.com)
+📫 Reach Out: [📧 aniketkumarsonu62@gmail.com](mailto:aniketkumarsonu62@gmail.com)
 
 🐍 Fun Fact: *Python isn’t just a language — it’s my way of life!* 💚
 
@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/aniket-kumar-7b4104298" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" style="margin: 10px;" />
   </a>
-  <a href="mailto:aniketsonukumar62@gmail.com" target="_blank">
+  <a href="mailto:aniketkumarsonu62@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email" style="margin: 10px;" />
   </a>
   <a href="https://www.kaggle.com/aniket62" target="_blank">
