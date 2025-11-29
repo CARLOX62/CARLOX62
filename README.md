@@ -78,20 +78,19 @@
 
 ### 🌐 Web & Styling
 
-| HTML5 | CSS3 | JavaScript | Flask | FastAPI |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> | <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" width="48" height="48" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="48" height="48" /> |
+| HTML5 | CSS3 | JavaScript | Flask | FastAPI | Tailwind CSS |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /> | <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /> | <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" width="48" height="48" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="48" height="48" /> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" title="Tailwind CSS" /> |
+
 
 
 ---
 
 ### 💾 Databases
 
-| MySQL |
-|:--:|
-| <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" /> |
-
----
+| MySQL | MongoDB |
+|:--:|:--:|
+| <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" /> | <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" /> |
 
 
 ---
