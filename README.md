@@ -11,7 +11,7 @@
 
 🌟 Currently Exploring: **Exciting ML Projects & Real-World Data Challenges**
 
-🧠 Learning Focus: **Advanced Deep Learning | Neural Networks | Transformers**
+🧠 Learning Focus: **Agentic AI | Computer Vision | MLOps**
 
 💬 Let's Talk About:  
 **Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
