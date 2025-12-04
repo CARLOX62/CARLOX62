@@ -97,11 +97,14 @@
 
 ### 🧰 Tools & Platforms
 
-| Git | GitHub | Jupyter | Linux | VS Code | Kaggle | Google Colab | Streamlit | Anaconda | Pydantic | Docker | Uvicorn | Gunicorn |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/git.png" width="40"/> | <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/> | <img src="https://img.icons8.com/color/48/linux.png" width="40"/> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/colab.png" width="40"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80"/> | <img src="https://img.icons8.com/fluency/48/anaconda.png" width="40"/> | <img src="https://cdn.simpleicons.org/pydantic/0984E3" width="40"/> | <img src="https://img.icons8.com/color/48/docker.png" width="40"/> | <img src="https://cdn.simpleicons.org/uvicorn/4B8BBE" width="40"/> | <img src="https://cdn.simpleicons.org/gunicorn/629A4A" width="40"/> |
+| Git | GitHub | Jupyter | Linux | VS Code | Kaggle | Google Colab |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/git.png" width="40"/> | <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/> | <img src="https://img.icons8.com/color/48/linux.png" width="40"/> | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/Aniket762/Tech-Stack-Icons/main/colab.png" width="40"/> |
 
----
+
+| Streamlit | Anaconda | Pydantic | Docker | Uvicorn | Gunicorn |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80"/> | <img src="https://img.icons8.com/fluency/48/anaconda.png" width="40"/> | <img src="https://cdn.simpleicons.org/pydantic/0984E3" width="40"/> | <img src="https://img.icons8.com/color/48/docker.png" width="40"/> | <img src="https://cdn.simpleicons.org/uvicorn/4B8BBE" width="40"/> | <img src="https://cdn.simpleicons.org/gunicorn/629A4A" width="40"/> |
 
 
 
