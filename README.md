@@ -1,7 +1,9 @@
 ![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
-<h3 align="center">Machine Learning Enthusiast | Python Developer | Problem Solver</h3>
+<h3 align="center">
+Frontend Developer | Full-Stack Python Developer | Machine Learning & Generative AI Enthusiast
+</h3>
 
 ---
 
@@ -9,16 +11,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
-🌟 Currently Exploring: **Exciting ML Projects & Real-World Data Challenges**
 
-🧠 Learning Focus: **Agentic AI | Computer Vision | MLOps**
+🌟 **Currently Working On:** AI-Powered Full-Stack Applications & Real-World Machine Learning Solutions
 
-💬 Let's Talk About:  
-**Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
+💻 **Tech Focus:** Frontend Development • Full-Stack Python • Machine Learning • Generative AI
 
-📫 Reach Out: [📧 aniketkumarsonu62@gmail.com](mailto:aniketkumarsonu62@gmail.com)
+🤖 **Exploring:** Agentic AI • RAG • LLMs • AI Agents • Computer Vision • MLOps
 
-🐍 Fun Fact: *Python isn’t just a language — it’s my way of life!* 💚
+💬 **Ask Me About:** React, Next.js, Python, FastAPI, Django, Machine Learning, Generative AI & Open Source
+
+📫 **Email:** [📧 aniketkumarsonu62@gmail.com](mailto:aniketkumarsonu62@gmail.com)
+
+⚡ **Fun Fact:** Code + AI + Creativity = Building impactful products that solve real-world problems.
+
 
 
 ---
@@ -34,33 +39,69 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://facebook.com/aniket.kumar.833650" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook.png" title="Facebook" style="margin: 10px;" />
-  </a>
-  <a href="https://instagram.com/aniketkumar8581" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" style="margin: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/aniket-kumar-7b4104298" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" style="margin: 10px;" />
-  </a>
-  <a href="mailto:aniketkumarsonu62@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email" style="margin: 10px;" />
-  </a>
-  <a href="https://www.kaggle.com/aniket62" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" title="Kaggle" style="margin: 10px;" />
-  </a>
+   <a href="https://carlox62.github.io/Portfolio/">
+   <img src="https://img.icons8.com/fluency/48/domain.png"/>
+   </a>
+   <a href="https://github.com/CARLOX62">
+   <img src="https://img.icons8.com/fluency/48/github.png"/>
+   </a>
+   <a href="https://linkedin.com/in/aniket-kumar-7b4104298" target="_blank">
+   <img src="https://img.icons8.com/color/48/linkedin.png"/>
+   </a>
+   <a href="https://leetcode.com/u/Aniket6203/">
+   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+   </a>
+   <a href="https://www.kaggle.com/aniket62" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" title="Kaggle" style="margin: 10px;" />
+   </a>
+   <a href="mailto:aniketkumarsonu62@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
+   </a>
+   <a href="https://facebook.com/aniket.kumar.833650" target="_blank">
+      <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
+   </a>
+   <a href="https://instagram.com/aniketkumar8581" target="_blank">
+   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
+   </a>
 </p>
 
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my projects and skills. |
+| 🤖 AI Chatbot | Built using LangChain, OpenAI, and FastAPI. |
+| 🧠 Machine Learning Projects | End-to-end ML projects using Scikit-learn and TensorFlow. |
+| 📊 Data Science Projects | Data analysis and visualization with Pandas & Matplotlib. |
+| 💻 LeetCode Solutions | Optimized Python solutions for coding interviews. |
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Aniket6203/">
+<img src="https://leetcard.jacoblin.cool/Aniket6203?theme=dark&font=Poppins&ext=contest"/>
+</a>
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
+---
 ### 👨‍💻 Programming Languages
 
-| C | C++ | Java | Python |
-|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/c-programming.png" title="C" /> | <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" /> | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" /> | <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" /> |
+| C++ | Java | Python |
+| :-: | :--: | :----: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/> |
+
+---
 
 ---
 
@@ -102,6 +143,26 @@
 
 ---
 
+### 🤖 Generative AI
+
+| OpenAI | Google Gemini | LangChain | LangGraph |
+| :-----: | :-----------: | :-------: | :--------: |
+| <img src="https://cdn.simpleicons.org/openai" width="48"/> | <img src="https://cdn.simpleicons.org/googlegemini" width="48"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48"/> |
+
+| Hugging Face | Ollama | LlamaIndex | RAG |
+| :----------: | :-----: | :--------: | :--: |
+| <img src="https://cdn.simpleicons.org/huggingface" width="48"/> | <img src="https://cdn.simpleicons.org/ollama" width="48"/> | <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48"/> | <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg" width="48"/> |
+
+| AI Agents | Prompt Engineering | FAISS | ChromaDB |
+| :-------: | :----------------: | :----: | :------: |
+| <img src="https://img.icons8.com/color/48/bot.png"/> | <img src="https://img.icons8.com/color/48/edit--v1.png"/> | <img src="https://img.icons8.com/color/48/database.png"/> | <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/> |
+
+| Pinecone | MCP | Vector DB | Prompt Flow |
+| :-------: | :-: | :-------: | :---------: |
+| <img src="https://img.icons8.com/color/48/tree.png"/> | <img src="https://img.icons8.com/color/48/electrical.png"/> | <img src="https://img.icons8.com/color/48/database.png"/> | <img src="https://img.icons8.com/color/48/workflow.png"/> |
+
+---
+
 ### 🧰 Tools & Platforms
 
 | Git | GitHub | Jupyter | Linux | VS Code | Kaggle | Google Colab |
@@ -112,8 +173,6 @@
 | Streamlit | Anaconda | Pydantic | Docker | Uvicorn | Gunicorn |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80"/> | <img src="https://img.icons8.com/fluency/48/anaconda.png" width="40"/> | <img src="https://cdn.simpleicons.org/pydantic/0984E3" width="40"/> | <img src="https://img.icons8.com/color/48/docker.png" width="40"/> | <img src="https://cdn.simpleicons.org/uvicorn/4B8BBE" width="40"/> | <img src="https://cdn.simpleicons.org/gunicorn/629A4A" width="40"/> |
-
-
 
 ---
 
