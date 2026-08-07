@@ -94,7 +94,7 @@ Frontend Developer | Full-Stack Python Developer | Machine Learning & Generative
 
 ## 🛠️ Tech Stack
 
----
+
 ### 👨‍💻 Programming Languages
 
 | C++ | Java | Python |
@@ -103,9 +103,9 @@ Frontend Developer | Full-Stack Python Developer | Machine Learning & Generative
 
 ---
 
----
 
 ### 🤖 Machine Learning & Data Science
+
 
 | TensorFlow | Keras | PyTorch | NumPy |
 |:--:|:--:|:--:|:--:|
@@ -176,41 +176,90 @@ Frontend Developer | Full-Stack Python Developer | Machine Learning & Generative
 
 ---
 
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CARLOX62&theme=dark&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
 <h3 align="center">📈 Aniket's GitHub Activity</h3>
 
-<div align="center">
+<!-- GitHub Activity Graph -->
+<p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true"
+      alt="Aniket's GitHub Activity Graph"
+      width="95%"
+    />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOX62&layout=compact&theme=tokyonight&langs_count=8&hide=c" alt="Top Languages" height="180px"/>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CARLOX62&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Keep%20Learning!-ff00ff?style=for-the-badge&logo=academia&logoColor=white" alt="Keep Learning Badge"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30" />
 </p>
 
+<br>
+
+<!-- Profile Details -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CARLOX62&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- Languages -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CARLOX62&theme=tokyonight"
+    alt="Repositories Per Language"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CARLOX62&theme=tokyonight"
+    alt="Most Commit Language"
+    width="46%"
+  />
+</p>
+
+<br>
+
+<!-- Stats -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CARLOX62&theme=tokyonight"
+    alt="GitHub Stats"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CARLOX62&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+    width="46%"
+  />
+</p>
+
+<br>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=CARLOX62&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    width="55%"
+  />
+</p>
+
+<br>
+
+<!-- Learning Badge -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Keep%20Learning!-ff00ff?style=for-the-badge&logo=academia&logoColor=white"
+    alt="Keep Learning Badge"
+  />
+  &nbsp;
+  <img
+    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+    alt="Coding Animation"
+    height="30"
+  />
+</p>
 
 ---
 
@@ -228,15 +277,6 @@ Frontend Developer | Full-Stack Python Developer | Machine Learning & Generative
   <b><i>🧠💡 Inspiration for thoughtful developers everywhere!</i></b>
 </p>
 
-
-
----
-
-### 🔝 Top Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CARLOX62&show_icons=true&theme=tokyonight" />
-
-</p>
 
 
 ---
